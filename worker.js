@@ -9,7 +9,7 @@ const MY_DOMAIN = "voron.pages.dev";
  * The value on the right is the Notion page ID
  */
 const SLUG_TO_PAGE = {
-  "": "771ef38657244c27b9389734a9cbff44",
+  "": "f08a3408c61543cf86005bc2e62d03f5",
   thanks: "9d9864f5338b47b0a7f42e0f0e2bbf46",
   showcase: "92053970e5084019ac096d2df7e7f440",
   roadmap: "7d4b21bfb4534364972e8bf9f68c2c36"
